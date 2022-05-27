@@ -13,17 +13,37 @@ FRA = {
 	color = rgb { 45 70 125 }
 	color_ui = rgb { 45 70 125 }
 }
+LUX = {
+	color = rgb { 65 175 179 }
+	color_ui = rgb { 85 228 233 }
+}
+BEL = { 
+	color 	 = rgb { 193 171 8  }
+	color_ui = rgb { 251 222 10 }
+}
+HOL = {	
+	color = rgb { 203 138 74 }
+	color_ui = rgb { 255 179 96 }
+}
 
 ###Central Europe
 GER = { 
 	color = rgb { 91 95 102 }
 	color_ui = rgb { 91 95 102 }
 }
-
+POL = {
+	color = rgb { 214 102 139 }
+	color_ui = rgb { 255 120 138 }
+}
 ###Southern Europe
 YUG = {
 	color = rgb { 72 73 126 }
 	color_ui = rgb { 94 95 164 }
+}
+
+ALB = {
+	color = rgb { 154 13 42 }
+	color_ui = rgb { 174 0 35 }
 }
 
 
@@ -123,6 +143,31 @@ WRT = {
 	color = rgb { 140 181 153 }
 	color_ui = rgb { 140 181 153 }
 }
+SXN = {
+	color = rgb { 154 147 180 }
+	color_ui = rgb { 154 147 180 }
+}
+SXP = {
+	color = rgb { 164 217 127 }
+	color_ui = rgb { 164 217 127 }
+}
+ANH = {
+	color = rgb { 203 93 124 }
+	color_ui = rgb { 203 93 124 }
+}
+WSP = {
+	color = rgb { 33 101 137 }
+	color_ui = rgb { 33 101 137 }
+}
+MKS = {
+	color = rgb { 156 179 189 }
+	color_ui = rgb { 156 179 189 }
+}
+MKW = {
+	color = rgb { 207 111 64 }
+	color_ui = rgb { 207 111 64 }
+}
+
 
 ###Thuringian states
 
@@ -157,4 +202,25 @@ SRU = {
 SSD = {
 	color = rgb { 180 137 148 }
 	color_ui = rgb { 180 137 148 }
+}
+###Polish Releasables
+PRS = {
+	color = rgb { 48 81 129 }
+	color_ui = rgb { 48 81 129 }
+}
+UKR = {
+	color = rgb { 0  80  230 }
+	color_ui = rgb { 0  80  230 }	
+}
+BLR = {
+	color = rgb { 180 220 190 }
+	color_ui = rgb { 180 220 190 }
+}
+DNZ = {
+	color = rgb { 78 129 151 }
+	color_ui = rgb { 78 129 151 }
+}
+KSH = {
+	color = rgb { 255 220 0 }
+	color_ui = rgb { 255 220 0 }
 }
