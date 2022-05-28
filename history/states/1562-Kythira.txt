@@ -4,6 +4,10 @@ state={
 	provinces={
 		20282 
 	}
+	history={
+		owner = GRE
+		add_core_of = GRE
+	}
 	manpower=8642
 	state_category=tiny_island
 	buildings_max_level_factor=1.000
