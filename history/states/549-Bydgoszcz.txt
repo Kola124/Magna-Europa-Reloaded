@@ -9,6 +9,9 @@ state={
 		owner = POL
 		add_core_of = POS
 		add_core_of = POL
+        victory_points = {
+            11367 20
+        }
   	}
 	manpower=223100
 	buildings_max_level_factor=1.000

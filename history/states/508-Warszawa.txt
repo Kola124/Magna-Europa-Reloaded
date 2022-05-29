@@ -8,6 +8,9 @@ state={
 	history={
 		owner = POL
 		add_core_of = POL
+        victory_points = {
+            11800 80
+        }
   	}
 	manpower=1171898
 	buildings_max_level_factor=1.000

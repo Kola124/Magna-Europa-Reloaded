@@ -11,6 +11,9 @@ state={
 		add_core_of = POL
 		add_core_of = WUK
 		add_core_of = UKR
+        victory_points = {
+            12912 20
+        }
   	}
 	manpower=469949
 	buildings_max_level_factor=1.000

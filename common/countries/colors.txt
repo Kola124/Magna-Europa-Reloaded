@@ -131,6 +131,16 @@ LIT = {
 	color = rgb { 219 219 119 }
 	color_ui = rgb { 255 255 155 }
 }
+DEN = {
+	color = rgb { 172 70 66 }
+	color_ui = rgb { 172 70 66 }
+}
+
+###Eastern Europe
+SOV = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 163 17 31 }
+}
 
 ###North Africa
 LBA = {
@@ -197,6 +207,7 @@ KER = {
 	color = rgb { 128 51 51 }
 	color_ui = rgb { 128 51 51 }
 }
+
 ###Italian Releasables
 NAP = {
 	color = rgb { 216 216 82 }
@@ -523,6 +534,66 @@ RHN = {
 	color = rgb { 57 160 101 }
 	color_ui = rgb { 57 160 101 }
 }
+WDK = {
+	color = rgb { 193 159 68 }
+	color_ui = rgb { 193 159 68 }
+}
+WST = {
+	color = rgb { 205 93 79 }
+	color_ui = rgb { 205 93 79 }
+}
+LIP = {
+	color = rgb { 131 105 183 }
+	color_ui = rgb { 131 105 183 }
+}
+SCL = {
+	color = rgb { 252 191 98 }
+	color_ui = rgb { 252 191 98 }
+}
+SAA = {
+	color = rgb { 205 183 241 }
+	color_ui = rgb { 205 183 241 }
+}
+BPA = {
+	color = rgb { 115 142 205 }
+	color_ui = rgb { 115 142 205 }
+}
+OLD = {
+	color = rgb { 147 130 118 }
+	color_ui = rgb { 147 130 118 }
+}
+BRE = {
+	color = rgb { 227 95 7 }
+	color_ui = rgb { 227 95 7 }
+}
+HAM = {
+	color = rgb { 79 139 99 }
+	color_ui = rgb { 79 139 99 }
+}
+HNV = {
+	color = rgb { 173 176 113 }
+	color_ui = rgb { 173 176 113 }
+}
+BRW = {
+	color = rgb { 109 92 55 }
+	color_ui = rgb { 109 92 55 }
+}
+SLH = {
+	color = rgb { 220 150 158 }
+	color_ui = rgb { 220 150 158 }
+}
+SLW = {
+	color = rgb { 220 150 158 }
+	color_ui = rgb { 220 150 158 }
+}
+HLS = {
+	color = rgb { 240 205 140 }
+	color_ui = rgb { 240 205 140 }
+}
+LBK = {
+	color = rgb { 55 140 143 }
+	color_ui = rgb { 55 140 143 }
+}
 
 ###Thuringian states
 
@@ -558,6 +629,7 @@ SSD = {
 	color = rgb { 180 137 148 }
 	color_ui = rgb { 180 137 148 }
 }
+
 ###Polish Releasables
 PRS = {
 	color = rgb { 48 81 129 }
@@ -602,4 +674,32 @@ POM = {
 POS = {
 	color = rgb { 117 117 117 }
 	color_ui = rgb { 117 117 117 }
+}
+
+###Soviet Releasables
+CRI = {
+	color = rgb { 255 80 80 }
+	color_ui = rgb { 204 0 0 }
+}
+MDA = {
+	color = rgb { 161 10 50 }
+	color_ui = rgb { 161 10 50 }
+}
+TSN = {
+	color = rgb { 113 176 170 }
+	color_ui = rgb { 113 176 170 }
+}
+RUS = {
+	color = rgb { 78 138 88 }
+	color_ui = rgb { 78 138 88 }
+}
+
+###Czechoslovak Releasables
+MRV = {
+	color = rgb { 3 106 181 }
+	color_ui = rgb { 3 106 181 }
+}
+BOH = {
+	color = rgb { 187 44 36 }
+	color_ui = rgb { 187 44 36 }
 }
