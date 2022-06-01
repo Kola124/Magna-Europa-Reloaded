@@ -2,16 +2,21 @@
 state={
 	id=862
 	name="STATE_862"
-	provinces={
-		1624 2959 4018 5999 8259 14774 20208 20210 
-	}
-	history = {
+
+	history={
 		owner = YUG
 		add_core_of = SER
 		add_core_of = YUG
-		victory_points = { 8259 5 }
+		victory_points = {
+			8259 5 
+		}
+
 	}
-	manpower=137825
+
+	provinces={
+		2959 4018 8259 14774 20210 
+	}
+	manpower=113825
 	buildings_max_level_factor=1.000
 	state_category=rural
 	local_supplies=0.000
