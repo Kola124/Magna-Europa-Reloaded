@@ -144,3 +144,154 @@ ITA_RSI = {
 	#color = rgb { 41 87 35 }
 	#color_ui = rgb { 41 87 35 }
 }
+
+####MOJE
+
+SCA_UNIFIED = {
+	color = rgb { 0 102 204 }
+	color_ui = rgb { 0 102 204 }
+}
+NDC_UNIFIED = {
+	color = rgb { 0 76 153 }
+	color_ui = rgb { 0 76 153 }
+}
+AUS_NOT_WHITE = {	
+	color = rgb { 249 126 98 }
+	color_ui = rgb { 255 164 127 }
+}
+PLC_UNIFIED = {
+	color = rgb { 176 81 111 }
+	color_ui = rgb { 176 81 111 }
+}
+UNL_UNIFIED = {
+	color = rgb { 255 128 0 }
+	color_ui = rgb { 255 128 0 }
+}
+BAL_UNIFIED = {
+	color = rgb { 0 102 102 }
+	color_ui = rgb { 0 102 102 }
+}
+OTT_UNIFIED = { #WTT
+	color = rgb { 26 138 4 }
+	color_ui = rgb { 26 138 4 }
+}
+OTT_UNIFIED_communism = { #BftB
+	color = rgb { 26 138 4 }
+	color_ui = rgb { 26 138 4 }
+}
+
+OTT_UNIFIED_democratic = { #BftB
+	color = rgb { 26 138 4 }
+	color_ui = rgb { 26 138 4 }
+}
+
+OTT_UNIFIED_fascism = { #BftB
+	color = rgb { 26 138 4 }
+	color_ui = rgb { 26 138 4 }
+}
+
+OTT_UNIFIED_neutrality = { #BftB
+	color = rgb { 26 138 4 }
+	color_ui = rgb { 26 138 4 }
+}
+SPQR_UNIFIED = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+PER_UNIFIED = {
+	color = rgb { 255 215 0 }
+	color_ui = rgb { 255 215 0 }
+}
+BYZ_UNIFIED = {
+	color = rgb { 143 12 125 }
+	color_ui = rgb { 143 12 125 }
+}
+
+BYZ_UNIFIED_communism = {
+	color = rgb { 143 12 125 }
+	color_ui = rgb { 143 12 125 }
+}
+
+BYZ_UNIFIED_democratic = {
+	color = rgb { 143 12 125 }
+	color_ui = rgb { 143 12 125 }
+}
+
+BYZ_UNIFIED_fascism = {
+	color = rgb { 143 12 125 }
+	color_ui = rgb { 143 12 125 }
+}
+
+BYZ_UNIFIED_neutrality = {
+	color = rgb { 143 12 125 }
+	color_ui = rgb { 143 12 125 }
+}
+ARA_UNIFIED = {
+	color = rgb { 85 102 0 }
+	color_ui = rgb { 85 102 0 }
+}
+GER_greater_german_reich = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+HRE_UNIFIED = {
+	color = rgb { 128 128 128 }
+	color_ui = rgb { 128 128 128 }
+}
+GRE_GREATER_GREECE_communism = {
+	color = rgb { 19 131 196 }
+	color_ui = rgb { 19 131 196 }
+}
+
+GRE_GREATER_GREECE_democratic = {
+	color = rgb { 19 131 196 }
+	color_ui = rgb { 19 131 196 }
+}
+
+GRE_GREATER_GREECE_fascism = {
+	color = rgb { 19 131 196 }
+	color_ui = rgb { 19 131 196 }
+}
+
+GRE_GREATER_GREECE_neutrality = {
+	color = rgb { 19 131 196 }
+	color_ui = rgb { 19 131 196 }
+}
+MAE_communism = {
+	color = rgb { 35 65 153 }
+	color_ui = rgb { 35 65 153 }
+}
+
+MAE_democratic = {
+	color = rgb { 35 65 153 }
+	color_ui = rgb { 35 65 153 }
+}
+
+MAE_fascism = {
+	color = rgb { 35 65 153 }
+	color_ui = rgb { 35 65 153 }
+}
+
+MAE_neutrality = {
+	color = rgb { 35 65 153 }
+	color_ui = rgb { 35 65 153 }
+}
+TRN_communism = {
+	color = rgb { 213 253 255 }
+	color_ui = rgb { 213 253 255 }
+}
+
+TRN_democratic = {
+	color = rgb { 213 253 255 }
+	color_ui = rgb { 213 253 255 }
+}
+
+TRN_fascism = {
+	color = rgb { 213 253 255 }
+	color_ui = rgb { 213 253 255 }
+}
+
+TRN_neutrality = {
+	color = rgb { 213 253 255 }
+	color_ui = rgb { 213 253 255 }
+}
