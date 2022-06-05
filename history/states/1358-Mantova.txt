@@ -7,11 +7,12 @@ state={
 		owner = ITA
 		add_core_of = ITA
 		add_core_of = LOM
+		add_core_of = MTV
 		buildings = {
 			infrastructure = 4
 		}
 		victory_points = {
-			20013 4 
+			20013 5
 		}
 
 	}

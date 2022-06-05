@@ -8,11 +8,12 @@ state={
 	history={
 		owner = FRA
 		add_core_of =FRA
+		add_core_of = OCC
 		buildings = {
 			infrastructure = 4
 		}
         victory_points = {
-            14711 5
+            14711 5 #Tarbes
         }
     }
 	manpower=188600

@@ -4,6 +4,10 @@ state={
 	history={
 		owner = FRA
 		add_core_of =FRA
+		add_core_of = OCC
+		victory_points = {
+            8397 2 #Pamiers
+        }
 		buildings = {
 			infrastructure = 4
 		}
